@@ -11,6 +11,10 @@
 
 &nbsp;
 
+<a href="https://github.com/user-attachments/assets/ff26529c-c8ff-43c1-8848-0f83bec99df3" >
+  <img width="100%" alt="redeclarando-variaveis" src="https://github.com/user-attachments/assets/ff26529c-c8ff-43c1-8848-0f83bec99df3"/>
+</a>
+
 ### Redeclarar uma variável dentro de um bloco também redeclarará a variável Fora do quarteirão:
 
 &nbsp;
