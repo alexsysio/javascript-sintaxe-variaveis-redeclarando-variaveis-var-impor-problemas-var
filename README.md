@@ -7,13 +7,6 @@
 &nbsp;
 
 ### Redeclarar uma variável dentro de um bloco também redeclarará a variável Fora do quarteirão:
-### var x = 10;
-### // Aqui x é 10
-### {
-### var x = 2;
-### // Aqui x é 2
-### }
-### // Aqui x é 2
 
 <a href="https://github.com/user-attachments/assets/f7689f9c-9054-4288-9406-04e7213d5d86" >
   <img width="100%" alt="var" src="https://github.com/user-attachments/assets/f7689f9c-9054-4288-9406-04e7213d5d86"/>
